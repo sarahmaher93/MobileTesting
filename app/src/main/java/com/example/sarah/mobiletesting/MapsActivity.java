@@ -23,6 +23,7 @@ public class MapsActivity extends FragmentActivity {
     protected void onResume() {
         super.onResume();
         setUpMapIfNeeded();
+        int x ;
     }
 
     /**
